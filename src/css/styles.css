@@ -32,6 +32,7 @@ main {
 
 .section {
     padding: 70px 0;
+    width: 100%;
 }
 
 .container {
@@ -92,12 +93,14 @@ main {
     flex-direction: column;
     align-items: center;
     padding: 40px;
+    max-width: 100%
 }
 
 .container .profile-data .info {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
 }
 
 .container .profile-data .info .data {
@@ -106,7 +109,7 @@ main {
 }
 
 .container .profile-data .info img {
-    width: 50%;
+    width: 310px;
     border-radius: 50%;
     border: 10px solid hotpink;
 }
@@ -193,5 +196,6 @@ span {
 
 li{
     list-style-type: none;
+    display: flex;
 }
 
