@@ -1,9 +1,11 @@
-# Descrição do Projeto
+# 👨‍💻 Desafio DevQuest: Fetch API GitHub
 Este repositório contém um página que busca os dados de usuários do GitHub, apresentando dados como: Foto de perfil, nome do usuário, bio, entre outros dados.
 
-As técnicas usadas nesse projeto são as ensinadas no módulo de **Javascript** avançado do curso **Dev em Dobro** . O projeto também conta com tecnologias **HTML** e **CSS**, que foram previamente feitas pela equipe do curso, meu papel foi desenvolver toda a lógica e funcionalidade usando **javascript** e a **API** do GitHub.
+As técnicas usadas nesse projeto são as ensinadas no módulo de **Javascript** avançado do curso **DevQuest** . O projeto também conta com tecnologias **HTML** e **CSS**, que foram previamente feitas pela equipe do curso, meu papel foi desenvolver toda a lógica e funcionalidade usando **javascript** e a **API** do GitHub.
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40px" > <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40px" > <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="32px" >
+
 - **HTML**: Estruturação do conteúdo e elementos da página.
 
 - **CSS**: Estilização visual e responsividade.
@@ -13,7 +15,7 @@ As técnicas usadas nesse projeto são as ensinadas no módulo de **Javascript**
 - **API**: Integração com a plataforma do GitHub, onde foram buscadas as informações do usuário da plataforma.
 
 
-## Objetivo
+## 🎯 Objetivo
 Buscar na plataforma do GitHub informações do perfil digitado, apresentando esses dados com um layout agradável ao usuário.
 
 Este projeto foi desenvolvido com o propósito de colocar em prática as técnicas do módulo de JavaScript avançado e as técnicas de uso de API´s e uso do método fetch.
